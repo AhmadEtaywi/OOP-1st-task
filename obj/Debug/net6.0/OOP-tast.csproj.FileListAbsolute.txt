@@ -1,0 +1,15 @@
+/home/ahmad/Desktop/OOP-tast/bin/Debug/net6.0/OOP-tast
+/home/ahmad/Desktop/OOP-tast/bin/Debug/net6.0/OOP-tast.deps.json
+/home/ahmad/Desktop/OOP-tast/bin/Debug/net6.0/OOP-tast.runtimeconfig.json
+/home/ahmad/Desktop/OOP-tast/bin/Debug/net6.0/OOP-tast.dll
+/home/ahmad/Desktop/OOP-tast/bin/Debug/net6.0/ref/OOP-tast.dll
+/home/ahmad/Desktop/OOP-tast/bin/Debug/net6.0/OOP-tast.pdb
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/OOP-tast.csproj.AssemblyReference.cache
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/OOP-tast.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/OOP-tast.AssemblyInfoInputs.cache
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/OOP-tast.AssemblyInfo.cs
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/OOP-tast.csproj.CoreCompileInputs.cache
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/OOP-tast.dll
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/ref/OOP-tast.dll
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/OOP-tast.pdb
+/home/ahmad/Desktop/OOP-tast/obj/Debug/net6.0/OOP-tast.genruntimeconfig.cache
